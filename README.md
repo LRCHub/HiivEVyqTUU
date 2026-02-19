@@ -1,0 +1,45 @@
+# iri – Butterfly
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Wake up スカスカのルーム
+Tick tock 手放す 自分
+もやひとつもない
+青く淡い空の背伸び
+旅立つメロディ 出会い絡む
+歩む ほどに
+だれにも言わずでかけた
+Walking around
+Walking around
+どこへも辿り着かないまま
+同じだけ ぼくら
+遠く遠く手を振った
+たしかなことはまだ何も
+話せてないけど
+青い影をおいやって
+漂う雲 かきわけて登る糸
+ビルで隙間がなくなって
+あの光と交信中
+できるならもう一瞬
+Walking around
+Walking around
+何と分かり合えるんだろ
+Walking around
+Walking around
+そっと手を伸ばしてみる
+同じだけ ぼくら
+遠く遠く手を振った
+たしかなことはまた明日
+きみと会えたとき
+Walking around
+Walking around
+この街で出会う朝も
+Walking around
+Walking around
+何も変わらないね
+同じだけ ぼくら
+遠く遠く手を振るんだ
+たしかなことだけ残して
+きみと帰る時
+```
